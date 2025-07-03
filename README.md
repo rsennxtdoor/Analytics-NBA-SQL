@@ -150,7 +150,7 @@ Data Visualization: Export query results to a visualization tool like Tableau or
 📂 How to Run This Project
 
 
-Clone the Repository: git clone https://github.com/YourUsername/YourRepoName.git
+Clone the Repository: git clone https://github.com/rsennxtdoor/Analutics-NBA-SQL.git
 Open the Database: Use DB Browser for SQLite to open the nba_stats.db file.
 Execute Queries: Navigate to the "Execute SQL" tab to run the queries provided in this report or write your own for further exploration.
 
