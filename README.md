@@ -1,5 +1,3 @@
-tHub.
-Markdown
 # SQL Portfolio Project: 2022-2023 NBA Player Stats Analysis
 
 ## 📜 Project Overview
